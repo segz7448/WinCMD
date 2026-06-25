@@ -1,0 +1,2 @@
+rootProject.name = "WinCMD"
+include ':app'

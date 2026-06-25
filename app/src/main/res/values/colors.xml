@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cmd_background">#000000</color>
+    <color name="cmd_text">#C0C0C0</color>
+    <color name="cmd_prompt">#C0C0C0</color>
+    <color name="cmd_error">#FF0000</color>
+    <color name="cmd_input">#FFFFFF</color>
+    <color name="status_bar">#000000</color>
+</resources>
